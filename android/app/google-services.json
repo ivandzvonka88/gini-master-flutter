@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "794275162161",
+    "firebase_url": "https://angelina-cnnahw.firebaseio.com",
+    "project_id": "angelina-cnnahw",
+    "storage_bucket": "angelina-cnnahw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794275162161:android:e164e0715c9fd17daa8d10",
+        "android_client_info": {
+          "package_name": "com.theginigroup.giniapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794275162161-islp2bfbcijqavd02iu2tk3nd5m7sglq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theginigroup.giniapp",
+            "certificate_hash": "08bb6f191da076199df54d34a8535feafbefa1cf"
+          }
+        },
+        {
+          "client_id": "794275162161-cpg0lhlch8nsqn3lv570vb83hlod0d9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvtQLXTQ_SVdbZi6q2C3ThhO8h3qecVt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794275162161-cpg0lhlch8nsqn3lv570vb83hlod0d9t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "794275162161-hinscipund2aqvqopvpbov0b8p2elkvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.theginigroup.giniapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
